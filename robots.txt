@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rio-fv83.vercel.app/sitemap.xml
